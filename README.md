@@ -1,69 +1,65 @@
 # 🧠 ASTRALLIBERTAD
 
-🎓 BS Computer Engineering Student  
-Creator of **Brain** — a type-safe, parallel-oriented programming language.
+🎓 BS Computer Engineering Student
+💻 AI Systems • Systems Programming • Performance Engineering
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prince-gabrielle-jhon-libertad-3a10b0390/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 Brain Programming Language
+## 🚀 About Me
 
-Brain is a compiled systems language written in Rust.
+I focus on building **high-performance systems** and integrating **AI into low-level infrastructure**.
 
-### ⚙️ Compiler Architecture
+My interests include:
 
-- 🔎 Lexer
-- 🌳 Recursive-Descent Parser
-- 🧠 Semantic Analyzer (Type Checking + Scope Resolution)
-- 📦 Module System (`import`, `export`, `include math.brn`)
-- ⚡ LLVM IR Code Generation
-- 🔒 Strong Static Type System
-- 🧵 Designed for Safe Parallel Programming
-
-Brain focuses on safety, performance, and concurrency  
-while remaining fast in single-threaded execution.
-
-> Type-safe. Parallel-first. Performance-driven.
-
-💡 **Status:** Soon to be **bootstrap** — the first self-hosting stage is coming.
+* AI & Machine Learning Systems
+* Systems & Infrastructure Engineering
+* Parallel & Concurrent Architectures
+* Performance-Critical Software
+* Foundational Tooling & Runtime Design
 
 ---
 
-## 🚀 Focus Areas
+# 🛠 Technical Stack
 
-- Programming Language Design  
-- Compiler Engineering  
-- Parallel & Concurrent Systems  
-- LLVM Infrastructure  
-- AI Systems & Game Integration  
-
----
-
-## 🛠 Tech Stack
-
-### 🧠 Systems & Compiler
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm)
-
----
-
-### 🤖 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
----
-
-### 🎮 Game Development
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+  <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+</p>
 
 ---
 
-## 🎯 Long-Term Vision
+## 🎯 Internship Focus
 
-To build high-performance tools —  
-from programming languages to intelligent systems and engines.
+Seeking internships in:
 
-Building foundations early.
+* AI Engineering
+* ML Systems
+* Systems & Infrastructure
+* Backend Performance Engineering
+
+Driven to build scalable, intelligent, and performance-critical technologies.
